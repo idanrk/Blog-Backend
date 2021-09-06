@@ -6,4 +6,4 @@
 *  Running the development-docker yml: `docker-compose -f docker-compose.yml -f docker-compose.dev.yml up -d --build`
 *  Running the production-docker yml: `docker-compose -f docker-compose.yml -f docker-compose.prod.yml up -d --build`
 *  Make sure to add ENV Variables at the config directory:
-# Full documentation can be found on: https://documenter.getpostman.com/view/16998201/Tzz8tdXM
+# Full documentation can be found on: https://documenter.getpostman.com/view/16998201/U16gR87B
