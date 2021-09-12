@@ -1,5 +1,5 @@
 # Docker Practice - Node,Redis,Mongo
-*  Created Docker image for the Node app. Also set-up the app to connect with Redis and MongoDB containers
+*  Created Docker image for the Node app. The app to connected to Redis and MongoDB containers
 *  The Node-app creates sessions on Redis container, and saves data on MongoDB container
 *  Created basic CRUD methods for User and Post models.
 *  Modules used: express,redis,mongoose,express-session,bcrypt.js,nodemon and more.
